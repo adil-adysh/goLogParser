@@ -1,0 +1,6 @@
+* text=auto eol=lf
+
+*.yml eol=lf
+*.sh text eol=lf
+*.md text eol=lf
+./docs/.adr-dir                                                                      text eol=lf
